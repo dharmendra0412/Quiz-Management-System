@@ -1,4 +1,4 @@
-# Quiz-Management-System
+
 # 🐍 Quiz Management System
 
 **Author:** Dharmendra Kumar
