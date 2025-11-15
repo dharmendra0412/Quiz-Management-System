@@ -13,11 +13,11 @@ This system is built with a clean, object-oriented design, separating admin func
 1.  **Clone the repository:**
     ```sh
     # Replace with your actual repository URL
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+    git clone https://github.com/dharmendra0412/Quiz-Management-System
     ```
 2.  **Navigate to the directory:**
     ```sh
-    cd YOUR_REPOSITORY_NAME
+    cd Quiz-Management-System
     ```
 3.  **Run the application:**
     ```sh
